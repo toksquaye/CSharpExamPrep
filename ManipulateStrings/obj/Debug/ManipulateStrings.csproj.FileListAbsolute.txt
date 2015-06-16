@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\ManipulateStrings\ManipulateStrings\bin\Debug\ManipulateStrings.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\ManipulateStrings\ManipulateStrings\bin\Debug\ManipulateStrings.exe
+c:\users\toks\documents\visual studio 2013\Projects\ManipulateStrings\ManipulateStrings\bin\Debug\ManipulateStrings.pdb
+c:\users\toks\documents\visual studio 2013\Projects\ManipulateStrings\ManipulateStrings\obj\Debug\ManipulateStrings.exe
+c:\users\toks\documents\visual studio 2013\Projects\ManipulateStrings\ManipulateStrings\obj\Debug\ManipulateStrings.pdb
+C:\Users\Toks\Documents\Visual Studio 2013\Projects\ManipulateStrings\ManipulateStrings\obj\Debug\ManipulateStrings.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\IOOperations\IOOperations\bin\Debug\IOOperations.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\IOOperations\IOOperations\bin\Debug\IOOperations.exe
+c:\users\toks\documents\visual studio 2013\Projects\IOOperations\IOOperations\bin\Debug\IOOperations.pdb
+c:\users\toks\documents\visual studio 2013\Projects\IOOperations\IOOperations\obj\Debug\IOOperations.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\IOOperations\IOOperations\obj\Debug\IOOperations.exe
+c:\users\toks\documents\visual studio 2013\Projects\IOOperations\IOOperations\obj\Debug\IOOperations.pdb

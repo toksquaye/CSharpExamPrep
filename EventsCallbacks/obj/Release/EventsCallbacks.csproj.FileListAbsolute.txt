@@ -1,0 +1,5 @@
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\bin\Release\EventsCallbacks.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\bin\Release\EventsCallbacks.exe
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\bin\Release\EventsCallbacks.pdb
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\obj\Release\EventsCallbacks.exe
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\obj\Release\EventsCallbacks.pdb

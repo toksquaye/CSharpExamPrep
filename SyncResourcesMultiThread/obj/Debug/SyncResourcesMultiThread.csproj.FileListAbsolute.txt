@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\SyncResourcesMultiThread\SyncResourcesMultiThread\bin\Debug\SyncResourcesMultiThread.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\SyncResourcesMultiThread\SyncResourcesMultiThread\bin\Debug\SyncResourcesMultiThread.exe
+c:\users\toks\documents\visual studio 2013\Projects\SyncResourcesMultiThread\SyncResourcesMultiThread\bin\Debug\SyncResourcesMultiThread.pdb
+c:\users\toks\documents\visual studio 2013\Projects\SyncResourcesMultiThread\SyncResourcesMultiThread\obj\Debug\SyncResourcesMultiThread.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\SyncResourcesMultiThread\SyncResourcesMultiThread\obj\Debug\SyncResourcesMultiThread.exe
+c:\users\toks\documents\visual studio 2013\Projects\SyncResourcesMultiThread\SyncResourcesMultiThread\obj\Debug\SyncResourcesMultiThread.pdb

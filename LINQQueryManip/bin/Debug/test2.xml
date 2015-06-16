@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person firstname="john" lastname="doe" IsMale="true">
+    <contactdetails>
+      <emailaddress>john@unknown.com</emailaddress>
+      <phonenumber>0987654321</phonenumber>
+      <cellphone>1234512345</cellphone>
+    </contactdetails>
+  </person>
+  <person firstname="jane" lastname="doe" IsMale="false">
+    <contactdetails>
+      <emailaddress>jane@unknown.com</emailaddress>
+      <phonenumber>001122334455</phonenumber>
+      <cellphone>1234512345</cellphone>
+    </contactdetails>
+  </person>
+</people>

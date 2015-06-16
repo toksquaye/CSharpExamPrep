@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\ManageAssemblies\ManageAssemblies\bin\Debug\ManageAssemblies.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\ManageAssemblies\ManageAssemblies\bin\Debug\ManageAssemblies.exe
+c:\users\toks\documents\visual studio 2013\Projects\ManageAssemblies\ManageAssemblies\bin\Debug\ManageAssemblies.pdb
+c:\users\toks\documents\visual studio 2013\Projects\ManageAssemblies\ManageAssemblies\obj\Debug\ManageAssemblies.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\ManageAssemblies\ManageAssemblies\obj\Debug\ManageAssemblies.exe
+c:\users\toks\documents\visual studio 2013\Projects\ManageAssemblies\ManageAssemblies\obj\Debug\ManageAssemblies.pdb

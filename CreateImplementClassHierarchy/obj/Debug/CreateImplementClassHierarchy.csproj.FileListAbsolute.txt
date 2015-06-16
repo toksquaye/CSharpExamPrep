@@ -1,0 +1,5 @@
+c:\users\toks\documents\visual studio 2013\Projects\CSharpExamPrep\CreateImplementClassHierarchy\obj\Debug\CreateImplementClassHierarchy.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\CSharpExamPrep\CreateImplementClassHierarchy\bin\Debug\CreateImplementClassHierarchy.exe
+c:\users\toks\documents\visual studio 2013\Projects\CSharpExamPrep\CreateImplementClassHierarchy\bin\Debug\CreateImplementClassHierarchy.pdb
+c:\users\toks\documents\visual studio 2013\Projects\CSharpExamPrep\CreateImplementClassHierarchy\obj\Debug\CreateImplementClassHierarchy.exe
+c:\users\toks\documents\visual studio 2013\Projects\CSharpExamPrep\CreateImplementClassHierarchy\obj\Debug\CreateImplementClassHierarchy.pdb

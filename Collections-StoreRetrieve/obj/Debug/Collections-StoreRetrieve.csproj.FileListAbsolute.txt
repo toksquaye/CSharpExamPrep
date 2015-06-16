@@ -1,0 +1,9 @@
+c:\users\toks\documents\visual studio 2013\Projects\Collections-StoreRetrieve\Collections-StoreRetrieve\bin\Debug\Collections-StoreRetrieve.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\Collections-StoreRetrieve\Collections-StoreRetrieve\bin\Debug\Collections-StoreRetrieve.exe
+c:\users\toks\documents\visual studio 2013\Projects\Collections-StoreRetrieve\Collections-StoreRetrieve\bin\Debug\Collections-StoreRetrieve.pdb
+c:\users\toks\documents\visual studio 2013\Projects\Collections-StoreRetrieve\Collections-StoreRetrieve\obj\Debug\Collections-StoreRetrieve.exe
+c:\users\toks\documents\visual studio 2013\Projects\Collections-StoreRetrieve\Collections-StoreRetrieve\obj\Debug\Collections-StoreRetrieve.pdb
+c:\users\toks\documents\visual studio 2013\Projects\Collections-StoreRetrieve\Collections-StoreRetrieve\obj\Debug\Collections-StoreRetrieve.csprojResolveAssemblyReference.cache
+C:\Users\Toks\Documents\Visual Studio 2013\Projects\CSharpExamPrep\Collections-StoreRetrieve\bin\Debug\Collections-StoreRetrieve.exe.config
+C:\Users\Toks\Documents\Visual Studio 2013\Projects\CSharpExamPrep\Collections-StoreRetrieve\obj\Debug\Collections-StoreRetrieve.exe
+C:\Users\Toks\Documents\Visual Studio 2013\Projects\CSharpExamPrep\Collections-StoreRetrieve\obj\Debug\Collections-StoreRetrieve.pdb

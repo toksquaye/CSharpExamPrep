@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\EnforceEncapsulation\EnforceEncapsulation\bin\Debug\EnforceEncapsulation.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\EnforceEncapsulation\EnforceEncapsulation\obj\Debug\EnforceEncapsulation.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\EnforceEncapsulation\EnforceEncapsulation\bin\Debug\EnforceEncapsulation.exe
+c:\users\toks\documents\visual studio 2013\Projects\EnforceEncapsulation\EnforceEncapsulation\bin\Debug\EnforceEncapsulation.pdb
+c:\users\toks\documents\visual studio 2013\Projects\EnforceEncapsulation\EnforceEncapsulation\obj\Debug\EnforceEncapsulation.exe
+c:\users\toks\documents\visual studio 2013\Projects\EnforceEncapsulation\EnforceEncapsulation\obj\Debug\EnforceEncapsulation.pdb

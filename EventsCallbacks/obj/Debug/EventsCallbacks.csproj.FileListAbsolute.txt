@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\bin\Debug\EventsCallbacks.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\bin\Debug\EventsCallbacks.exe
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\bin\Debug\EventsCallbacks.pdb
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\obj\Debug\EventsCallbacks.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\obj\Debug\EventsCallbacks.exe
+c:\users\toks\documents\visual studio 2013\Projects\EventsCallbacks\EventsCallbacks\obj\Debug\EventsCallbacks.pdb

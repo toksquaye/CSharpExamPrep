@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\ManageObjectLifeCycle\ManageObjectLifeCycle\bin\Debug\ManageObjectLifeCycle.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\ManageObjectLifeCycle\ManageObjectLifeCycle\bin\Debug\ManageObjectLifeCycle.exe
+c:\users\toks\documents\visual studio 2013\Projects\ManageObjectLifeCycle\ManageObjectLifeCycle\bin\Debug\ManageObjectLifeCycle.pdb
+c:\users\toks\documents\visual studio 2013\Projects\ManageObjectLifeCycle\ManageObjectLifeCycle\obj\Debug\ManageObjectLifeCycle.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\ManageObjectLifeCycle\ManageObjectLifeCycle\obj\Debug\ManageObjectLifeCycle.exe
+c:\users\toks\documents\visual studio 2013\Projects\ManageObjectLifeCycle\ManageObjectLifeCycle\obj\Debug\ManageObjectLifeCycle.pdb

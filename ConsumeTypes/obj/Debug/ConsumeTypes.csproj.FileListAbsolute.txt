@@ -1,0 +1,9 @@
+c:\users\toks\documents\visual studio 2013\Projects\ConsumeTypes\ConsumeTypes\bin\Debug\ConsumeTypes.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\ConsumeTypes\ConsumeTypes\obj\Debug\ConsumeTypes.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\ConsumeTypes\ConsumeTypes\bin\Debug\ConsumeTypes.exe
+c:\users\toks\documents\visual studio 2013\Projects\ConsumeTypes\ConsumeTypes\bin\Debug\ConsumeTypes.pdb
+c:\users\toks\documents\visual studio 2013\Projects\ConsumeTypes\ConsumeTypes\obj\Debug\ConsumeTypes.exe
+c:\users\toks\documents\visual studio 2013\Projects\ConsumeTypes\ConsumeTypes\obj\Debug\ConsumeTypes.pdb
+C:\Users\Toks\Documents\Visual Studio 2013\Projects\CSharpExamPrep\ConsumeTypes\bin\Debug\ConsumeTypes.exe.config
+C:\Users\Toks\Documents\Visual Studio 2013\Projects\CSharpExamPrep\ConsumeTypes\obj\Debug\ConsumeTypes.exe
+C:\Users\Toks\Documents\Visual Studio 2013\Projects\CSharpExamPrep\ConsumeTypes\obj\Debug\ConsumeTypes.pdb

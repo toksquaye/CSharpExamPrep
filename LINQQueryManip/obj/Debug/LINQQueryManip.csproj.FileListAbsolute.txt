@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\LINQQueryManip\LINQQueryManip\bin\Debug\LINQQueryManip.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\LINQQueryManip\LINQQueryManip\bin\Debug\LINQQueryManip.exe
+c:\users\toks\documents\visual studio 2013\Projects\LINQQueryManip\LINQQueryManip\bin\Debug\LINQQueryManip.pdb
+c:\users\toks\documents\visual studio 2013\Projects\LINQQueryManip\LINQQueryManip\obj\Debug\LINQQueryManip.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\LINQQueryManip\LINQQueryManip\obj\Debug\LINQQueryManip.exe
+c:\users\toks\documents\visual studio 2013\Projects\LINQQueryManip\LINQQueryManip\obj\Debug\LINQQueryManip.pdb

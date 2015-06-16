@@ -1,0 +1,8 @@
+c:\users\toks\documents\visual studio 2013\Projects\Reflection\Reflection\bin\Debug\Reflection.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\Reflection\Reflection\bin\Debug\Reflection.exe
+c:\users\toks\documents\visual studio 2013\Projects\Reflection\Reflection\bin\Debug\Reflection.pdb
+c:\users\toks\documents\visual studio 2013\Projects\Reflection\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\Reflection\Reflection\obj\Debug\Reflection.exe
+c:\users\toks\documents\visual studio 2013\Projects\Reflection\Reflection\obj\Debug\Reflection.pdb
+c:\users\toks\documents\visual studio 2013\Projects\Reflection\Reflection\bin\Debug\xunit.dll
+c:\users\toks\documents\visual studio 2013\Projects\Reflection\Reflection\bin\Debug\xunit.xml

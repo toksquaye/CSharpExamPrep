@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+c:\users\toks\documents\visual studio 2013\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+c:\users\toks\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+c:\users\toks\documents\visual studio 2013\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb

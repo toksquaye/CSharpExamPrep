@@ -1,0 +1,6 @@
+c:\users\toks\documents\visual studio 2013\Projects\SerializeDeserialize\SerializeDeserialize\bin\Debug\SerializeDeserialize.exe.config
+c:\users\toks\documents\visual studio 2013\Projects\SerializeDeserialize\SerializeDeserialize\bin\Debug\SerializeDeserialize.exe
+c:\users\toks\documents\visual studio 2013\Projects\SerializeDeserialize\SerializeDeserialize\bin\Debug\SerializeDeserialize.pdb
+c:\users\toks\documents\visual studio 2013\Projects\SerializeDeserialize\SerializeDeserialize\obj\Debug\SerializeDeserialize.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\SerializeDeserialize\SerializeDeserialize\obj\Debug\SerializeDeserialize.exe
+c:\users\toks\documents\visual studio 2013\Projects\SerializeDeserialize\SerializeDeserialize\obj\Debug\SerializeDeserialize.pdb
