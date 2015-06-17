@@ -1,5 +1,6 @@
 # CSharpExamPrep by Tokunbo Quaye
-A solution containing a collection of console apps I wrote and tested in prep for Microsoft c# Certification Exam
+A solution containing a collection of console apps I wrote and tested in prep for Microsoft c# Certification Exam.
+Some of these examples are also from the Programming in C# book by Wouter de Kort.  Others are from MCSD Certification Toolkit - Programming in C# book.  
 The projects and content are described below:
 
 CreateImplementClassHierarchy
@@ -49,3 +50,39 @@ LINQQueryManip
  * Join, Skip, XML Query
  
 ManageAssemblies
+ * Widening/Narrowing Conversions
+
+ManageObjectLifeCycle
+ * Implement Dispose/Finalizer
+ * Weak Reference
+
+ManageProgramFlow
+ * Short Circuiting/Null Coalescing
+
+ManipulateStrings
+ * Override ToString
+ * StringWriter, StringReader, Startswith, Endswith
+ * Regex, Currency Formatting
+ * 
+ 
+MultiThreadAsync
+ * ThreadStart, ParameterizedThreadStart
+ * Tasks, QueueUserWorkItem, TaskFactory,Parallel.For, BlockingCollection
+ * 
+ 
+Reflection
+ * Create custom attribute, apply attributes
+ * Get value and type from Reflection
+ * CodeDom
+ * 
+ 
+SerializeDeserialize
+ * xml serializer, Binary serialization, DataContract, implement ISerializable
+ * 
+ 
+SyncResourcesMultiThread
+ * Lock, Volatile, InterLocked, CancellationToken
+ * 
+ 
+ValidateAppInput
+ * Build database from classes, ModelBuilder
