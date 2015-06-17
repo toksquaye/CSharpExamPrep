@@ -32,3 +32,20 @@ EventCallbacks
   * Delegates, Covariance, Contravariance
   * Action, Multicast Delegate, Lamda Expressions, Create and Raise events
   * Events with Exceptions
+
+ExceptionHandling
+ * Throw exception. Throw custom exception. Catch exception
+ 
+IOOperations
+ * Build directory tree
+ * Read,Write to files (Asynchronously)
+ * Handle multiple HTTP Requests, WebRequests
+ * StreamReader, GZIPStream
+ 
+LINQQueryManip
+ * Extension Methods
+ * Query Syntax, Method Syntax
+ * LINQ Select, OrderBy, Groupby, Projection
+ * Join, Skip, XML Query
+ 
+ManageAssemblies
